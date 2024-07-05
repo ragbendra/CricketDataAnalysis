@@ -4,18 +4,18 @@ I have conducted a simple data analysis along with building and evaluating a reg
 
 The dataset contains the following columns:
 
-mid: Match ID
-date: Date of the match
-venue: Venue of the match
-bat_team: Batting team
-bowl_team: Bowling team
-batsman: Batsman on strike
-bowler: Bowler delivering the ball
-runs: Runs scored on that ball
-wickets: Wickets fallen by that ball
-overs: Number of overs completed
-runs_last_5: Runs scored in the last 5 overs
-wickets_last_5: Wickets fallen in the last 5 overs
-striker: Striker's ID
-non-striker: Non-striker's ID
-total: Total score of the team
+mid: Match ID,
+date: Date of the match,
+venue: Venue of the match,
+bat_team: Batting team,
+bowl_team: Bowling team,
+batsman: Batsman on strike,
+bowler: Bowler delivering the ball,
+runs: Runs scored on that ball,
+wickets: Wickets fallen by that ball,
+overs: Number of overs completed,
+runs_last_5: Runs scored in the last 5 overs,
+wickets_last_5: Wickets fallen in the last 5 overs,
+striker: Striker's ID,
+non-striker: Non-striker's ID,
+total: Total score of the team,
