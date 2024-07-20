@@ -1,3 +1,4 @@
+<h1 style="text-align:centre;"> Cricket Data Dnalysis and Score Prediction: Machine Learning Regression </h1>
 This is the cricket data analysis and score prediction: machine learning regression for analyzing cricket data and prediciting scores.
 I have conducted a simple data analysis along with building and evaluating a regression model for score prediction in cricket matches.
 
