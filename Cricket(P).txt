@@ -26,4 +26,6 @@ finally combine the actual and predicted scores. Again matplotlib library is imp
 the datasets graph for better understanding of realtionships between various data. Histograms, box plots, and rest are drawn. 
 
 
-           By doing above machine learning regression and data analysis for cricket and score prediciton we come to the conclusion that by analysising various features such as runs, bowl_team, runs_last_t, venue, bat_team, etc that certain features such as wickets and overs had significant influence on score predicition and while others had less impacts.
+           By doing above machine learning regression and data analysis for cricket and score prediciton we come to the conclusion that 
+by analysising various features such as runs, bowl_team, runs_last_t, venue, bat_team, etc that certain features such as wickets and 
+overs had significant influence on score predicition and while others had less impacts.
