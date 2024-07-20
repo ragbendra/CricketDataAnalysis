@@ -5,8 +5,8 @@ I have conducted a simple data analysis along with building and evaluating a reg
 The dataset contains the following columns:
 
 <br> mid: Match ID, </br>
-date: Date of the match,
-venue: Venue of the match,
+date: Date of the match,<br>
+venue: Venue of the match, <br>
 bat_team: Batting team,
 bowl_team: Bowling team,
 batsman: Batsman on strike,
