@@ -4,7 +4,7 @@ I have conducted a simple data analysis along with building and evaluating a reg
 
 The dataset contains the following columns:
 
-mid: Match ID,
+<br> mid: Match ID, </br>
 date: Date of the match,
 venue: Venue of the match,
 bat_team: Batting team,
