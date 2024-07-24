@@ -1,0 +1,28 @@
+﻿Cricket Match Score Prediction:
+ Using Linear Regression Model
+
+
+Algorithm Used and It’s Introduction:
+This project includes the Cricket data analysis and focuses
+more on score prediction using linear regression model. Linear regression is a data analysis technique that predicts the value of unknown data by using another related and known data value.
+It uses a single independent variable to predict a dependent variable by fitting a linear equation to observed data. The value you want to predict is the dependent variable and the value you use to predict the other variable’s value is an independent variable. Further details like the features used are given in the README file of github link of the project which is:
+https://github.com/ragbendra/CricketDataAnalysis.git
+The linear regression model was trained using the training datasets. The model's performance was evaluated using metrics such as mean absolute error(MAE) and mean squared error(MSE).
+The various steps in this project are:
+Data Processing:
+1. Data loading and preprocessing
+2. Splitting data into training and testing sets
+Model Evaluation:
+1. Correlation Matrix: To visualize the relationships between variables.
+2. Feature Importance: To identify the most significant features influencing the target variables.
+
+
+
+
+Why Did I Use This Algorithm:
+1. Linear Regressions are relatively easy to understand and 
+Apply.
+2. They can be used to predict the future values based on the existing data. 
+3. Linear Regressions are highly interpretable. 
+4. Linear Regression comes with assumptions that can be diagnosed and verified.
+5. Linear Regression is computationally efficient.
